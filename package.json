@@ -1,0 +1,25 @@
+{
+  "name": "projectjs",
+  "version": "1.0.0",
+  "description": "secend project on git",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACYMBA/ProjectJS.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Albert Cymbaluk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACYMBA/ProjectJS/issues"
+  },
+  "homepage": "https://github.com/ACYMBA/ProjectJS#readme",
+  "devDependencies": {
+    "grunt-sass": "^2.0.0"
+  }
+}
